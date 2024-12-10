@@ -1,0 +1,3 @@
+# Dropbox-Assistant
+
+The project is designed to use a remote spare computer to run Python code, leveraging Dropbox. The main idea is to share the code files via Dropbox, automatically execute the code, and save the results. By syncing the code files across devices, it ensures that any changes made to the scripts are immediately reflected on the remote machine. This setup allows for seamless execution without the need for manual intervention, making it an efficient solution for automating processes or running resource-intensive tasks remotely. Additionally, the results of each execution are automatically stored in Dropbox, ensuring easy access and secure backup.
